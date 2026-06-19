@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 540" width="1280" height="540" fill="none" font-family="&#39;SFMono-Regular&#39;,&#39;JetBrains Mono&#39;,&#39;DejaVu Sans Mono&#39;,Consolas,&#39;Courier New&#39;,monospace" role="img" aria-label="System map: from origins (SuperAGI, Samsung 5G) through the Lilly platform (MCP gateway, NHI framework, multi-agent SOC) to open-source products (MANTIS, AEGIS, AgentBridge).">
+  <defs>
+    <linearGradient id="abg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0e07"></stop><stop offset="1" stop-color="#080906"></stop></linearGradient>
+    <pattern id="agrid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#2a2410" stroke-opacity="0.55" stroke-width="1"></path></pattern>
+  </defs>
+  <rect width="1280" height="540" fill="url(#abg)"></rect>
+  <rect width="1280" height="540" fill="url(#agrid)"></rect>
+
+  
+  <text x="185" y="44" text-anchor="middle" font-size="12" fill="#8a8f6c" letter-spacing="3">// ORIGINS</text>
+  <text x="640" y="44" text-anchor="middle" font-size="12" fill="#ffb627" letter-spacing="3">// PLATFORM · ELI LILLY</text>
+  <text x="1095" y="44" text-anchor="middle" font-size="12" fill="#8a8f6c" letter-spacing="3">// OPEN SOURCE</text>
+  <line x1="80" y1="56" x2="290" y2="56" stroke="#4a3c16" stroke-opacity="0.6"></line>
+  <line x1="515" y1="56" x2="765" y2="56" stroke="#ffb627" stroke-opacity="0.4"></line>
+  <line x1="990" y1="56" x2="1200" y2="56" stroke="#4a3c16" stroke-opacity="0.6"></line>
+
+  
+  <g fill="none">
+    <path d="M290 124 C 360 124, 445 124, 515 124" stroke="#4a3c16" stroke-width="1.4"></path>
+    <path d="M290 124 C 360 124, 445 124, 515 124" stroke="#ffb627" stroke-width="1.6" stroke-dasharray="7 13" stroke-linecap="round" opacity="0.9">
+      
+    </path>
+  </g>
+  <g fill="none">
+    <path d="M290 284 C 380 300, 430 444, 515 444" stroke="#4a3c16" stroke-width="1.4"></path>
+    <path d="M290 284 C 380 300, 430 444, 515 444" stroke="#ffb627" stroke-width="1.6" stroke-dasharray="7 13" stroke-linecap="round" opacity="0.9">
+      
+    </path>
+  </g>
+  <g fill="none">
+    <path d="M765 124 C 850 122, 905 119, 990 119" stroke="#4a3c16" stroke-width="1.4"></path>
+    <path d="M765 124 C 850 122, 905 119, 990 119" stroke="#ffb627" stroke-width="1.6" stroke-dasharray="7 13" stroke-linecap="round" opacity="0.9">
+      
+    </path>
+  </g>
+  <g fill="none">
+    <path d="M765 138 C 860 150, 900 262, 990 264" stroke="#4a3c16" stroke-width="1.4"></path>
+    <path d="M765 138 C 860 150, 900 262, 990 264" stroke="#ffb627" stroke-width="1.6" stroke-dasharray="7 13" stroke-linecap="round" opacity="0.9">
+      
+    </path>
+  </g>
+  <g fill="none">
+    <path d="M765 152 C 880 175, 890 400, 990 404" stroke="#4a3c16" stroke-width="1.4"></path>
+    <path d="M765 152 C 880 175, 890 400, 990 404" stroke="#ffb627" stroke-width="1.6" stroke-dasharray="7 13" stroke-linecap="round" opacity="0.9">
+      
+    </path>
+  </g>
+  <g fill="none">
+    <path d="M765 290 C 850 282, 905 268, 990 266" stroke="#4a3c16" stroke-width="1.4"></path>
+    <path d="M765 290 C 850 282, 905 268, 990 266" stroke="#ffb627" stroke-width="1.6" stroke-dasharray="7 13" stroke-linecap="round" opacity="0.9">
+      
+    </path>
+  </g>
+  <g fill="none">
+    <path d="M765 444 C 880 420, 900 160, 990 138" stroke="#4a3c16" stroke-width="1.4"></path>
+    <path d="M765 444 C 880 420, 900 160, 990 138" stroke="#ffb627" stroke-width="1.6" stroke-dasharray="7 13" stroke-linecap="round" opacity="0.9">
+      
+    </path>
+  </g>
+  <circle r="3.4" fill="#ffe0a3"></circle>
+  <circle r="3.4" fill="#ffe0a3"></circle>
+  <circle r="3.4" fill="#ffe0a3"></circle>
+  <circle r="3.4" fill="#ffe0a3"></circle>
+
+  
+  <g>
+    <rect x="80" y="90" width="210" height="68" rx="6" fill="#0e1107" stroke="#4a3c16" stroke-opacity="1" stroke-width="1"></rect>
+    
+    <text x="96" y="112" font-size="10" fill="#8a8f6c" letter-spacing="2">2023</text>
+    <text x="96" y="134" font-size="17" fill="#ffb627" font-weight="700" letter-spacing="0.5">SuperAGI</text>
+    <text x="96" y="144" font-size="11" fill="#8a8f6c" letter-spacing="0.4">21k★ · agent framework</text>
+  </g>
+  <g>
+    <rect x="80" y="250" width="210" height="68" rx="6" fill="#0e1107" stroke="#4a3c16" stroke-opacity="1" stroke-width="1"></rect>
+    
+    <text x="96" y="272" font-size="10" fill="#8a8f6c" letter-spacing="2">2021</text>
+    <text x="96" y="294" font-size="17" fill="#ffb627" font-weight="700" letter-spacing="0.5">Samsung 5G MEC</text>
+    <text x="96" y="304" font-size="11" fill="#8a8f6c" letter-spacing="0.4">edge placement · best project</text>
+  </g>
+
+  
+  <g>
+    <rect x="515" y="80" width="250" height="88" rx="6" fill="#0e1107" stroke="#ffb627" stroke-opacity="0.8" stroke-width="1.5"></rect>
+    
+    <path d="M516 92 V81 H527" stroke="#ffb627" stroke-width="1.5" fill="none"></path>
+    <path d="M753 81 H764 V92" stroke="#ffb627" stroke-width="1.5" fill="none"></path>
+    <path d="M516 156 V167 H527" stroke="#ffb627" stroke-width="1.5" fill="none"></path>
+    <path d="M753 167 H764 V156" stroke="#ffb627" stroke-width="1.5" fill="none"></path>
+    <text x="531" y="102" font-size="10" fill="#8a8f6c" letter-spacing="2">CORE</text>
+    <text x="531" y="124" font-size="17" fill="#ffb627" font-weight="700" letter-spacing="0.5">MCP GATEWAY</text>
+    <text x="531" y="154" font-size="11" fill="#8a8f6c" letter-spacing="0.4">8 servers · 130+ tools · 7 layers</text>
+  </g>
+  <g>
+    <rect x="515" y="250" width="250" height="80" rx="6" fill="#0e1107" stroke="#4a3c16" stroke-opacity="1" stroke-width="1"></rect>
+    
+    <text x="531" y="272" font-size="10" fill="#8a8f6c" letter-spacing="2">IDENTITY</text>
+    <text x="531" y="294" font-size="17" fill="#ffb627" font-weight="700" letter-spacing="0.5">NHI · LETHAL TRIFECTA</text>
+    <text x="531" y="316" font-size="11" fill="#8a8f6c" letter-spacing="0.4">human / workload / agent</text>
+  </g>
+  <g>
+    <rect x="515" y="410" width="250" height="80" rx="6" fill="#0e1107" stroke="#4a3c16" stroke-opacity="1" stroke-width="1"></rect>
+    
+    <text x="531" y="432" font-size="10" fill="#8a8f6c" letter-spacing="2">RUNTIME</text>
+    <text x="531" y="454" font-size="17" fill="#ffb627" font-weight="700" letter-spacing="0.5">MULTI-AGENT SOC</text>
+    <text x="531" y="476" font-size="11" fill="#8a8f6c" letter-spacing="0.4">800+ tickets/mo · −88% MRT</text>
+  </g>
+
+  
+  <g>
+    <rect x="990" y="80" width="210" height="76" rx="6" fill="#0e1107" stroke="#4a3c16" stroke-opacity="1" stroke-width="1"></rect>
+    
+    <text x="1006" y="102" font-size="10" fill="#8a8f6c" letter-spacing="2">FLAGSHIP</text>
+    <text x="1006" y="124" font-size="17" fill="#ffb627" font-weight="700" letter-spacing="0.5">MANTIS</text>
+    <text x="1006" y="142" font-size="11" fill="#8a8f6c" letter-spacing="0.4">autonomous SOC · 55k LOC</text>
+  </g>
+  <g>
+    <rect x="990" y="228" width="210" height="72" rx="6" fill="#0e1107" stroke="#4a3c16" stroke-opacity="1" stroke-width="1"></rect>
+    
+    <text x="1006" y="250" font-size="10" fill="#8a8f6c" letter-spacing="2">GOVERNANCE</text>
+    <text x="1006" y="272" font-size="17" fill="#ffb627" font-weight="700" letter-spacing="0.5">AEGIS</text>
+    <text x="1006" y="286" font-size="11" fill="#8a8f6c" letter-spacing="0.4">wiz for AI agents</text>
+  </g>
+  <g>
+    <rect x="990" y="370" width="210" height="72" rx="6" fill="#0e1107" stroke="#4a3c16" stroke-opacity="1" stroke-width="1"></rect>
+    
+    <text x="1006" y="392" font-size="10" fill="#8a8f6c" letter-spacing="2">REFERENCE</text>
+    <text x="1006" y="414" font-size="17" fill="#ffb627" font-weight="700" letter-spacing="0.5">AgentBridge</text>
+    <text x="1006" y="428" font-size="11" fill="#8a8f6c" letter-spacing="0.4">OpenAI SDK × MCP</text>
+  </g>
+
+  <text x="1200" y="520" text-anchor="end" font-size="10" fill="#8a8f6c" letter-spacing="1">data flows left → right · live</text>
+</svg>

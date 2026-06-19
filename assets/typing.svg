@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 76" width="760" height="76" fill="none" font-family="&#39;SFMono-Regular&#39;,&#39;JetBrains Mono&#39;,&#39;DejaVu Sans Mono&#39;,Consolas,&#39;Courier New&#39;,monospace" role="img" aria-label="Lead Architect · Agentic AI and Security @ Lilly / Founding Engineer · SuperAGI — 21k stars / Author · NullCon AI Paper of the Year 2025">
+  <text x="20" y="52" font-size="22" fill="#ffb627" font-weight="700">▸</text>
+  
+  <g>
+    <clipPath id="clip0"><rect x="64" y="20" width="607" height="44"></rect></clipPath>
+    <text x="64" y="52" font-size="22" fill="#e9ead6" letter-spacing="0.5" clip-path="url(#clip0)">Lead Architect · Agentic AI &amp; Security @ Lilly</text>
+    <rect x="64" y="34" width="11" height="22" fill="#ffb627" opacity="0">
+      
+      
+    </rect>
+  </g>
+  <g>
+    <clipPath id="clip1"><rect x="64" y="20" width="0" height="44"></rect></clipPath>
+    <text x="64" y="52" font-size="22" fill="#e9ead6" letter-spacing="0.5" clip-path="url(#clip1)">Founding Engineer · SuperAGI — 21k stars</text>
+    <rect x="64" y="34" width="11" height="22" fill="#ffb627" opacity="0">
+      
+      
+    </rect>
+  </g>
+  <g>
+    <clipPath id="clip2"><rect x="64" y="20" width="0" height="44"></rect></clipPath>
+    <text x="64" y="52" font-size="22" fill="#e9ead6" letter-spacing="0.5" clip-path="url(#clip2)">Author · NullCon AI Paper of the Year 2025</text>
+    <rect x="64" y="34" width="11" height="22" fill="#ffb627" opacity="0">
+      
+      
+    </rect>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 24" width="1280" height="24" fill="none" role="img" aria-label="section divider">
+  <line x1="0" y1="12" x2="1280" y2="12" stroke="#4a3c16" stroke-opacity="0.6"></line>
+  <g fill="#ffb627">
+    <rect x="0" y="8" width="2" height="8"></rect><rect x="1278" y="8" width="2" height="8"></rect>
+  </g>
+  <rect x="0" y="11" width="120" height="2" fill="#ffb627" opacity="0.8">
+    
+  </rect>
+</svg>
