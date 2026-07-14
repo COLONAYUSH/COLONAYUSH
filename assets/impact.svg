@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 284" width="1280" height="284" fill="none" role="img" aria-label="Impact by the numbers: 800+ tickets/month, MTTR 45 to 4 min, 240+ tools, SuperAGI 17.6k stars, 12 detection engines, 2 peer-reviewed papers.">
+<defs><linearGradient id="pnl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#080e1a"/><stop offset="1" stop-color="#04060d"/></linearGradient>
+ <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5cdcff" stop-opacity="0"/><stop offset="0.5" stop-color="#5cdcff"/><stop offset="1" stop-color="#5cdcff" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="1278" height="282" rx="14" fill="url(#pnl)" stroke="#22314d"/>
+<text x="26" y="36" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="14" letter-spacing="1.5" fill="#93a3c0"><tspan fill="#5cdcff">$ </tspan>cat ./impact.log <tspan fill="#55658a"># real numbers, not repo stars</tspan></text>
+<rect x="26" y="46" width="150" height="1.5" fill="url(#scan)"><animate attributeName="x" values="26;1104;26" dur="7s" repeatCount="indefinite"/></rect>
+<rect x="40" y="73" width="22" height="2.5" fill="#5cdcff"/>
+<text x="40" y="120" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" letter-spacing="-1.5" fill="#eaf0fb">800<tspan fill="#5cdcff" font-size="28">+</tspan></text>
+<text x="41" y="141" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="12.5" fill="#93a3c0">tickets auto-resolved</text>
+<text x="41" y="157" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="11" fill="#55658a">per month · five-tier fleet</text>
+<line x1="435" y1="72" x2="435" y2="146" stroke="#22314d"/>
+<rect x="449" y="73" width="22" height="2.5" fill="#63e6a4"/>
+<text x="449" y="120" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" letter-spacing="-1.5" fill="#eaf0fb">45→4<tspan fill="#63e6a4" font-size="28"></tspan></text>
+<text x="450" y="141" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="12.5" fill="#93a3c0">minutes MTTR</text>
+<text x="450" y="157" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="11" fill="#55658a">−88% · saga-compensated</text>
+<line x1="845" y1="72" x2="845" y2="146" stroke="#22314d"/>
+<rect x="859" y="73" width="22" height="2.5" fill="#5cdcff"/>
+<text x="859" y="120" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" letter-spacing="-1.5" fill="#eaf0fb">240<tspan fill="#5cdcff" font-size="28">+</tspan></text>
+<text x="860" y="141" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="12.5" fill="#93a3c0">agent-callable tools</text>
+<text x="860" y="157" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="11" fill="#55658a">15+ MCP servers · 7 layers</text>
+<rect x="40" y="175" width="22" height="2.5" fill="#f4b063"/>
+<text x="40" y="222" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" letter-spacing="-1.5" fill="#eaf0fb">17.6<tspan fill="#f4b063" font-size="28">k★</tspan></text>
+<text x="41" y="243" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="12.5" fill="#93a3c0">SuperAGI</text>
+<text x="41" y="259" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="11" fill="#55658a">founding engineer</text>
+<line x1="435" y1="174" x2="435" y2="248" stroke="#22314d"/>
+<rect x="449" y="175" width="22" height="2.5" fill="#5cdcff"/>
+<text x="449" y="222" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" letter-spacing="-1.5" fill="#eaf0fb">12<tspan fill="#5cdcff" font-size="28"></tspan></text>
+<text x="450" y="243" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="12.5" fill="#93a3c0">detection engines</text>
+<text x="450" y="259" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="11" fill="#55658a">MANTIS autonomous SOC</text>
+<line x1="845" y1="174" x2="845" y2="248" stroke="#22314d"/>
+<rect x="859" y="175" width="22" height="2.5" fill="#f4b063"/>
+<text x="859" y="222" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" letter-spacing="-1.5" fill="#eaf0fb">2<tspan fill="#f4b063" font-size="28"></tspan></text>
+<text x="860" y="243" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="12.5" fill="#93a3c0">peer-reviewed papers</text>
+<text x="860" y="259" font-family="'SFMono-Regular','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="11" fill="#55658a">DOI-registered · verifiable</text>
+<line x1="40" y1="160" x2="1240" y2="160" stroke="#22314d"/>
+</svg>
